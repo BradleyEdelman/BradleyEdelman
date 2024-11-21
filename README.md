@@ -1,16 +1,13 @@
-## Hi there 👋
+# Brad Edelman, PhD
 
-<!--
-**BradleyEdelman/BradleyEdelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- my [LinkedIn](https://www.linkedin.com/in/bradley-edelman-583b6122/)
+- my [GoogleScholar](https://scholar.google.com/citations?user=MmlZKs0AAAAJ&hl=en&oi=ao)
 
-Here are some ideas to get you started:
+## Biomedical engineer and aspiring data scientist and AI researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤓 Spent 12 years in academia researching a number of topics such as brain-computer interface, neural circuits, emotion processing
+- 🔭 My expertise is in analyzing medical imaging data (EEG, MRI, ultrasound, microscopy) using various analytical techniques
+- 🌱 I’m currently exploring data science and machine learning techniques using large multimodal datasets
+- 📫 How to reach me: Bjedelma@gmail.com
+
+![](https://komarev.com/ghpvc/?username=BradleyEdelman&color=blue)
