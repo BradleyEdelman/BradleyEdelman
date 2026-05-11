@@ -4,6 +4,7 @@
 - [GoogleScholar](https://scholar.google.com/citations?user=MmlZKs0AAAAJ&hl=en&oi=ao)  
 
 # CTO @ E-SENSE INNOVATION & TECHNOLOGY, LTD
+- [E-SENSE](https://www.esense-inno.tech/)
 ## Imaging Expert | Data Scientist | ML Researcher
 
 - 📚 15+ years of R&D across brain-computer interfaces, functional neuroimaging, and machine learning-based diagnostics
